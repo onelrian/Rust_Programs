@@ -1,0 +1,1 @@
+/home/sob/Projects/Rust/stats/target/debug/derick: /home/sob/Projects/Rust/stats/src/calculation.rs /home/sob/Projects/Rust/stats/src/input.rs /home/sob/Projects/Rust/stats/src/main.rs /home/sob/Projects/Rust/stats/src/mean.rs /home/sob/Projects/Rust/stats/src/median.rs /home/sob/Projects/Rust/stats/src/mode.rs
