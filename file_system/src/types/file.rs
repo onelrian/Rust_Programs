@@ -34,4 +34,9 @@ impl FileSystemItem for File {
     fn display(&self) {
         println!("File: {}, (Size: {} bytes)", self.name, self.size);
     }
+
+    fn display_with_indent(&self, depth: usize) {
+        let indent = "  ".repeat(depth);
+        println!("{}File: {} (Size: {} bytes)", indent, self.name, self.size);
+    }
 }
