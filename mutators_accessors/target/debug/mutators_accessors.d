@@ -1,0 +1,1 @@
+/home/sob/Projects/Rust/mutators_accessors/target/debug/mutators_accessors: /home/sob/Projects/Rust/mutators_accessors/src/display.rs /home/sob/Projects/Rust/mutators_accessors/src/main.rs /home/sob/Projects/Rust/mutators_accessors/src/measurement.rs /home/sob/Projects/Rust/mutators_accessors/src/person.rs

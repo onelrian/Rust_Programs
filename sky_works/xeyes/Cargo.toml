@@ -1,0 +1,13 @@
+[package]
+name = "xeyes"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+piston = "1.0.0"
+graphics = "0.3.3"
+glutin = "0.32.2"
+piston2d-gfx_graphics = "0.71.0"
+piston2d-opengl_graphics = "0.71.0"
+piston2d-glutin_window = "0.71.0"

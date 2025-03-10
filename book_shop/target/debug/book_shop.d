@@ -1,0 +1,1 @@
+/home/sob/Projects/Rust/book_shop/target/debug/book_shop: /home/sob/Projects/Rust/book_shop/src/book.rs /home/sob/Projects/Rust/book_shop/src/input.rs /home/sob/Projects/Rust/book_shop/src/library.rs /home/sob/Projects/Rust/book_shop/src/main.rs
