@@ -6,6 +6,12 @@ pub struct Folder {
     items: Vec<Box<dyn FileSystemItem>>,
 }
 
+impl Drop for Folder {
+    fn drop(&mut self) {
+        println!("Folder: {} is being deleted",self.name)
+    }
+}
+
 impl Folder {
     pub fn new(name: String) -> Self {
         Self {
