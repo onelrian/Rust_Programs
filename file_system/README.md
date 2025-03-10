@@ -7,11 +7,6 @@ This project is a simple file system simulation implemented in Rust. It allows u
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
