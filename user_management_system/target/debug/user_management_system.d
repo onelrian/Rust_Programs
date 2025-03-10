@@ -1,1 +1,0 @@
-/home/sob/Projects/Rust/user_management_system/target/debug/user_management_system: /home/sob/Projects/Rust/user_management_system/src/main.rs /home/sob/Projects/Rust/user_management_system/src/service.rs /home/sob/Projects/Rust/user_management_system/src/user.rs

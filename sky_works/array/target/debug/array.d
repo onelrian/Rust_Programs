@@ -1,1 +1,0 @@
-/home/sob/Projects/Rust/sky_works/array/target/debug/array: /home/sob/Projects/Rust/sky_works/array/src/add.rs /home/sob/Projects/Rust/sky_works/array/src/input.rs /home/sob/Projects/Rust/sky_works/array/src/main.rs /home/sob/Projects/Rust/sky_works/array/src/remove.rs /home/sob/Projects/Rust/sky_works/array/src/reverse.rs

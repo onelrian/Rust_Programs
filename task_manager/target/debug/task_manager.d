@@ -1,1 +1,0 @@
-/home/sob/Projects/Rust/task_manager/target/debug/task_manager: /home/sob/Projects/Rust/task_manager/src/main.rs /home/sob/Projects/Rust/task_manager/src/task.rs /home/sob/Projects/Rust/task_manager/src/task_manager.rs

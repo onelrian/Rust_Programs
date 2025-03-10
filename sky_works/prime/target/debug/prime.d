@@ -1,1 +1,0 @@
-/home/sob/Projects/Rust/sky_works/prime/target/debug/prime: /home/sob/Projects/Rust/sky_works/prime/src/input.rs /home/sob/Projects/Rust/sky_works/prime/src/main.rs /home/sob/Projects/Rust/sky_works/prime/src/prime.rs
