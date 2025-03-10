@@ -1,6 +1,6 @@
 use crate::types::folder::Folder;
 
-fn display_tree(folder: &Folder, depth: usize) {
+pub fn display_tree(folder: &Folder, depth: usize) {
     let indent = "  ".repeat(depth);
     println!("{}Folder: {}", indent, folder.get_name());
 
